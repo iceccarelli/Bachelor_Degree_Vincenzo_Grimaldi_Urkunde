@@ -1,4 +1,4 @@
-# Bachelor_Degree_Vincenzo_Grimaldi_Urkunde
+# Bachelor Degree Vincenzo Grimaldi Urkunde
 
 ## Certification of Expertise: Bachelor of Science (B.Sc.) in Business Administration and Engineering: Electrical Power Engineering
 
@@ -6,9 +6,9 @@ This repository serves as a comprehensive, production-ready, and cloneable packa
 
 ### Background and Academic Profile
 
-**Giacomo Vincenzo Ceccarelli Grimaldi** (born 04. December 1987 in Lima) successfully completed his Bachelor of Science (B.Sc.) in Business Administration and Engineering: Electrical Power Engineering at RWTH Aachen University, graduating on **08. August 2022** with an overall grade of **2.7 (befriedigend)**. This degree signifies a robust foundation in both the technical intricacies of electrical power engineering and the strategic business acumen essential for navigating complex energy landscapes.
+**Giacomo Vincenzo Ceccarelli Grimaldi** (born 04. December 1987 in Lima) successfully completed his Bachelor of Science (B.Sc.) in Business Administration and Engineering: Electrical Power Engineering at RWTH Aachen University, graduating on **08. August 2022** with an overall grade of 3.5. This degree signifies a robust foundation in both the technical intricacies of electrical power engineering and the strategic business acumen essential for navigating complex energy landscapes.
 
-His academic journey at RWTH Aachen, a leading technical university, has equipped him with profound expertise in critical areas directly relevant to the ongoing global energy transition and the modernization of infrastructure:
+Aims to gain expertise in critical areas directly relevant to the ongoing global energy transition and the modernization of infrastructure:
 
 *   **Renewable Energy Systems:** In-depth understanding of renewable energy generation, integration, and management.
 *   **Smart Grids:** Expertise in the design, implementation, and optimization of intelligent electricity networks for enhanced efficiency and resilience.
@@ -18,7 +18,7 @@ His academic journey at RWTH Aachen, a leading technical university, has equippe
 
 ### Thesis: Data Modeling Ontology for Cyber Intelligence in Smart Grids with Reinforcement Learning
 
-His Bachelor's thesis, supervised by **Univ.-Prof. Ph. D. Antonello Monti**, explored "Data Modeling Ontology for Cyber Intelligence in Smart Grids with Reinforcement Learning" (Grade: 2.3 - gut). This research demonstrates a cutting-edge understanding of how advanced data structures and AI can be leveraged to enhance the security and operational intelligence of smart grids, a cornerstone of modern energy infrastructure.
+Bachelor's thesis, supervised by **Univ.-Prof. Ph. D. Antonello Monti**, explored "Data Modeling Ontology for Cyber Intelligence in Smart Grids with Reinforcement Learning" (Grade: 3.0). This research demonstrates a cutting-edge understanding of how advanced data structures and NoSQL strutures can be leveraged to enhance the security and operational intelligence of smart grids, a cornerstone of modern energy infrastructure.
 
 ### Connection to Deutsche Bahn InfraGO AG and Renewables Migration
 
@@ -77,5 +77,3 @@ To ensure full reproducibility and verification of the claims, follow these step
 
 4.  **Explore notebooks:**
     Open the Jupyter notebooks (`01_Verify_Degree.ipynb` and `02_Expertise_Analysis.ipynb`) to delve into the detailed verification process, interactive analyses, and simulations.
-
-This package provides an unassailable proof of the academic rigor and specialized knowledge acquired, directly supporting the critical demands of modern energy infrastructure and the renewables migration.
